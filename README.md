@@ -1,8 +1,8 @@
 # Merhaba, ben Zeynep Nur Değirmençay
 
-** İzmir Bakırçay Üniversitesi  
-** Bilgisayar Mühendisliği 3. Sınıf Öğrencisi  
-** Zorunlu Yaz Stajı Arıyorum (En az 20 iş günü)
+-- İzmir Bakırçay Üniversitesi  
+-- Bilgisayar Mühendisliği 3. Sınıf Öğrencisi  
+-- Zorunlu Yaz Stajı Arıyorum (En az 20 iş günü)
 
 ---
 
