@@ -1,52 +1,108 @@
-# Merhaba, ben Zeynep Nur Değirmençay
+## Hi, I'm Zeynep Nur Değirmençay
+🎓 Computer Engineering Student — İzmir Bakırçay University
 
--- İzmir Bakırçay Üniversitesi  
--- Bilgisayar Mühendisliği 3. Sınıf Öğrencisi  
--- Zorunlu Yaz Stajı Arıyorum (En az 20 iş günü)
+📍 İzmir, Türkiye
 
----
+I enjoy building software projects and exploring different areas of computer science.
 
-## Teknik Beceriler
-### Programlama
-- C# (İyi Seviye)
-- Python (Orta Seviye)
-- C++ (Temel)
+Currently looking for a Summer Internship where I can improve my development skills and gain real-world experience.
 
-### Yazılım & Bilgisayar Bilimi
-- Nesne Yönelimli Programlama (OOP)
-- Veri Yapıları (AVL Tree, Linked List, Stack, Queue)
-- Algoritma Temelleri
-- Veri Bilimi Temelleri
-- Makine Öğrenmesine Giriş (Regression & Classification Concepts)
+## 👩‍💻About Me
+--3rd year Computer Engineering student
 
-### Veritabanı
-- PostgreSQL
-- SQL (JOIN, Trigger, Function)
+--Interested in software development and problem solving
 
-### Araçlar
-- Git (Commit, Branching, Merge, Remote Repository Management)
-- Visual Studio
+--Experience with algorithms, data structures and databases
 
----
+--Built multiple academic projects using C#, SQL and Python
 
-## Projeler
+--Open to different areas of software development and eager to learn
 
-### C# Windows Forms Hesap Makinesi
-- Temel ve bilimsel hesaplama özellikleri
-- Nesne yönelimli tasarım prensipleri kullanıldı
-- TabControl ile arayüz geçişi sağlandı
+## 🚀Tech Stack
 
-### AVL Tree Uygulaması (C#)
-- Dengeli ikili arama ağacı implementasyonu
-- Ekleme, silme, arama ve rotasyon işlemleri
-- In-order traversal çıktısı
+## Languages
+--C#
 
-### SQL Veritabanı Projesi
-- Tablo oluşturma (DDL)
-- Veri ekleme ve sorgulama (DML)
-- JOIN, Trigger ve Function kullanımı
+--Python
 
----
+--C++
+## Database
 
-Bana ulaşmak için:
-LinkedIn:www.linkedin.com/in/zeynep-nur-değirmençay-70b638295
+--PostgreSQL
+
+--SQL
+
+## Concepts
+
+--Object Oriented Programming
+
+--Data Structures
+
+--Algorithms
+
+## Tools
+
+--Git
+
+--Visual Studio
+
+## 💻 Projects
+
+## 🛒 E-Commerce, Social Media & Payment System Integration
+
+Designed a relational database combining multiple systems
+
+Created ER diagram and relational schema
+
+Ensured data consistency using constraints and triggers
+
+## 🌳 AVL Tree Based Personnel Management System
+
+Implemented a self-balancing binary search tree in C#
+
+Supported insertion, deletion and search operations
+
+Applied rotation logic to maintain tree balance
+
+## 🧮 Scientific Calculator (Windows Forms)
+
+Desktop application with basic and scientific calculations
+
+Developed using object-oriented programming principles
+
+Designed multi-view interface with TabControl
+
+## 📐 Shape Calculation & Visualization Application
+
+Calculates area and perimeter of geometric shapes
+
+Implemented inheritance and polymorphism
+
+Includes a simple visualization interface
+
+## 🗄 Integrated Database System (Pharmacy Depot & Branches)
+
+Designed relational database architecture
+
+Modeled entity relationships
+
+Implemented SQL queries for system operations
+
+## 🌸 Flower Classification
+
+Data preprocessing and feature analysis using Python
+
+Built a classification model
+
+Evaluated model performance
+
+## 📚 Library Automation System
+
+Desktop application for managing books and members
+
+Developed with C# Windows Forms
+
+Implemented database operations
+
+## 🔗 Connect With Me
+LinkedIn :  https://www.linkedin.com/in/zeynep-nur-degirmencay/
