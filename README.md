@@ -26,6 +26,8 @@ Currently looking for a Summer Internship where I can improve my development ski
 --Python
 
 --C++
+
+--Assembly
 ## Database
 
 --PostgreSQL
